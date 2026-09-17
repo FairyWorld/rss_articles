@@ -1,4 +1,9 @@
 
+3、
+
+我让一个 Claude Code 实例24小时运行，处理突发状况。它本质上就成了一个 24/7 全天候待命的工程师。
+
+-- [《一种自主监控代理》](https://denislavgavrilov.com/p/clopus-watcher-an-autonomous-monitoring)
 
 1、
 
